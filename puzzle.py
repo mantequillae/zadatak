@@ -7,3 +7,5 @@ for f in range(0,11):
     if x == y:
         print("Well done!", z + y)
         exit(0)
+
+print("And then something else.")
